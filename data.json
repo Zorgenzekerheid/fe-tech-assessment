@@ -1,0 +1,48 @@
+{
+  "basicInsurance": [
+    {
+      "id": "basis",
+      "name": "Basis",
+      "price": 145.45,
+      "description": "Essentiële ziektekosten dekking met maximale eigenrisico"
+    },
+    {
+      "id": "standaard",
+      "name": "Standaard",
+      "price": 159.75,
+      "description": "Uitgebreide ziektekosten dekking met laag eigenrisico"
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": 169.99,
+      "description": "Volledige ziektekosten dekking zonder eigenrisico en extra voordelen"
+    }
+  ],
+  "additionalInsurance": [
+    {
+      "id": "dental",
+      "name": "Tandarts",
+      "price": 12.5,
+      "description": "Dekking voor tandartsen en mondhygiëne"
+    },
+    {
+      "id": "glasses",
+      "name": "Brillen",
+      "price": 8.99,
+      "description": "Dekking voor brilkosten en contactlenzen"
+    },
+    {
+      "id": "travel",
+      "name": "Reizen",
+      "price": 5.0,
+      "description": "Internationale reiskostenvergoeding tot 250 dagen per jaar"
+    },
+    {
+      "id": "mental",
+      "name": "GGZ",
+      "price": 8.5,
+      "description": "Psychische gezondheidszorg dekking inclusief psycholoog"
+    }
+  ]
+}
